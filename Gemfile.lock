@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/tony-matheus/linguica-jekyll.git
-  revision: d0a0331e949cd306107ded4c0bcfff8a8a48fff7
+  revision: 2907dd311f071d3af6aabb496af10a1eaa2dd002
   branch: master
   specs:
     linguica (0.13)
@@ -23,7 +23,7 @@ GEM
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
       uri (>= 0.13.1)
-    addressable (2.8.9)
+    addressable (2.9.0)
       public_suffix (>= 2.0.2, < 8.0)
     base64 (0.3.0)
     bigdecimal (4.1.0)
@@ -33,7 +33,7 @@ GEM
     coffee-script-source (1.12.2)
     colorator (1.1.0)
     commonmarker (0.23.12)
-    concurrent-ruby (1.3.6)
+    concurrent-ruby (1.3.8)
     connection_pool (3.0.2)
     dnsruby (1.73.1)
       base64 (>= 0.2)
@@ -119,7 +119,7 @@ GEM
       activesupport (>= 2)
       nokogiri (>= 1.4)
     http_parser.rb (0.8.1)
-    i18n (1.14.8)
+    i18n (1.15.2)
       concurrent-ruby (~> 1.0)
     jekyll (3.9.5)
       addressable (~> 2.4)
